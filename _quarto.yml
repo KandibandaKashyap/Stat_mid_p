@@ -11,7 +11,7 @@ website:
       - case1.qmd
       - case2.qmd
       - codes.qmd
-      - video.qmd
+      - videoka.qmd
       
 
 format:
