@@ -2,6 +2,6 @@
 title: "video"
 ---
 
-The video below discuss about our STAT 515 Mid Project:
+The video below discusses our STAT 515 Mid Project:
 
-{{< video https://www.youtube.com/watch?v=-4FEC6esSsI >}}
+{{< youtube -4FEC6esSsI >}}
